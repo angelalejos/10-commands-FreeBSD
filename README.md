@@ -10,6 +10,7 @@ In order to update FreeBSD, open a console in the system with root privileges an
 To update “Ports” package manager and installed software run the below command.
 
 #pkg update
+
 #pkg upgrade
 
 # 2. Install Editors and Bash
